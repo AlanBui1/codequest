@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /announcements
+permalink: /announcements/
 hidden: true
 
 ---

@@ -17,7 +17,7 @@ excerpt:
 
 
   <br><br><br>
-  CodeQuest Summer Camp is a program designed to introduce children to the world of computer science! From July 24-28, we invite students from grades 5-8 to join a welcoming and engaging atmosphere to learn to code. By the end of the camp, students will have the tools to be able to create their own games!
+  CodeQuest is a program designed to introduce children to the world of computer science! From July 24-28, we invite students from grades 5-8 to join a welcoming and engaging atmosphere to learn to code. By the end of the camp, students will have the tools to be able to create their own games!
 
 feature_row:
 
