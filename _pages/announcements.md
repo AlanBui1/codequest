@@ -6,5 +6,3 @@ hidden: true
 ---
 
 Announcements go here later!
-
-
