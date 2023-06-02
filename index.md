@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/banner.png
+  overlay_image: /assets/images/bg1.png
   actions:
     # - label: "About the Program"
     #   url: "/springcep"
