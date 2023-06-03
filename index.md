@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#1A2B63"
   overlay_image: /assets/images/bg2.gif
   actions:
     # - label: "About the Program"
