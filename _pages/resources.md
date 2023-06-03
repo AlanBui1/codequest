@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /resources
+permalink: /resources/
 hidden: true
 
 feature_row:

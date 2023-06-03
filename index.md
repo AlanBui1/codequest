@@ -17,8 +17,7 @@ excerpt:
 
 
   <br><br><br>
-  The Windsor Chess Enrichment program is designed to teach young children how to play and enjoy chess. We offer chess classes for students at all skill levels and provide a welcoming and engaging atmosphere for them to play against each other. We also provide private lessons to those students that would like more personalized coaching.
-  TO DO INSERT WEBSITE TEXT
+  CodeQuest is a program designed to introduce children to the world of computer science! From July 24-28, we invite students from grades 5-8 to join a welcoming and engaging atmosphere to learn to code. By the end of the camp, students will have the tools to be able to create their own games!
 
 feature_row:
 

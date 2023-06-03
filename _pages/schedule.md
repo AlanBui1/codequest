@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /schedule
+permalink: /schedule/
 hidden: true
 
 
