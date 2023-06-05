@@ -3,9 +3,11 @@ permalink: "/about/"
 title: "About Us"
 ---
 
-## About Us
-
-<!-- <img style="float: right; padding-left: 5%" src="https://alanbui1.github.io/chess-website/assets/images/teamPhoto.png"  width="60%" height="60%" > -->
+<br>
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;" src="https://alanbui1.github.io/codequest/assets/images/about.png" >
 
 CodeQuest is a summer coding camp in Windsor for grade school students in grades 5 to 8. Our mission is to inspire and empower youth to explore the field of computer science at an affordable price. CodeQuest runs July 24-28 at [location] from 10 AM to 3 PM where students learn through lessons and activities in a fun, effective way. The lessons are taught by teachers at the Vincent Massey Computer Science Club as well as one of Stanford's Code in Place section leaders. CodeQuest open to all students in grades 5-8. Contact us at codequestwindsor@gmail.com for more information!
 

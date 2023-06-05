@@ -6,7 +6,7 @@ permalink: /info/
 
 CodeQuest Summer Camp is starting soon! 
 
-<img src="/assets/images/flyer_v1.png" alt="Program Flyer" height = "60%" width = "60%"> 
+<img src="https://alanbui1.github.io/codequest/assets/images/flyer_v1.png" alt="Program Flyer" height = "60%" width = "60%"> 
 
 <h2>What is it?</h2>
 
