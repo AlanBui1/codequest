@@ -25,11 +25,12 @@ Alan Bui is a Massey student who completed the grades 10-12 computer science cou
 <br>
 
 ## Jacob Gaisinsky
+<br>
+<img style="float: left; padding-right: 5%" src="https://alanbui1.github.io/codequest/assets/images/jacob.jpg"  width="30%" height="15%" >
 
-<img style="float: right; padding-left: 5%" src="https://alanbui1.github.io/chess-website/assets/images/alan.JPEG"  width="40%" height="40%" >
+Alan Bui is a Massey student who completed the grades 10-12 computer science courses each with a grade of 100%. Additionally, he has made the national honour roll for UWaterloo's Canadian Computing Competition two times. He is one of Stanford's Code in Place section leaders, teaching Python to a class with people from all over the globe. He has also been teaching at the Vincent Massey Computer Science Club for the last year and has been part of it for the last 3 years. His skills range from algorithms, to game development, to web development. Having taught multiple computer science classes, Alan enjoys inspiring motivated students and helping them take their first steps into the world of computer science!
 
-Alan Bui is a competitive chess player, chess author, and chess coach. Having competed in the World Cadets Chess Championships in 2015, Pan-American Youth Chess Festival in 2019, and various North american youth chess Championships, he is a proud member of Team Canada. One notable achievement was being co-winner of the Ontario Youth Chess Championships in 2017. During the pandemic, Alan teamed up with Candidate Master Adam Gaisinsky to write their own Chessable course: [Typical Tactical Tricks: 500 Ways to Win!](https://www.chessable.com/typical-tactical-tricks-500-ways-to-win/course/77784/)
-
+<br>
 <br>
 <br>
 

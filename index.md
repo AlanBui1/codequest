@@ -6,12 +6,12 @@ header:
   overlay_color: "#1a2b63"
   overlay_image: /assets/images/bg2.gif
   actions:
-    # - label: "About the Program"
-    #   url: "/springcep"
-    # - label: Meet the Teachers
-    #   url: "/about#adam-gaisinsky"
-    # - label: Sign Up
-    #   url: "https://forms.gle/fQir8Saqjecnewrb6"
+    - label: "About the Program"
+      url: "/info"
+    - label: Meet the Teachers
+      url: "/about/#alan-bui"
+    - label: Sign Up
+      url: "https://forms.gle/NAqiTSd9H83e9WsU7"
   
 excerpt: 
 
