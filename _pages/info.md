@@ -1,8 +1,38 @@
 ---
-layout: splash
+title: "CodeQuest Summer Camp"
+last_modified_at: 2023-06-05
 permalink: /info/
-hidden: true
-
 ---
 
-Info will be here soon!
+CodeQuest Summer Camp is starting soon! 
+
+<img src="/assets/images/flyer_v1.png" alt="Program Flyer" height = "60%" width = "60%"> 
+
+<h2>What is it?</h2>
+
+CodeQuest is a summer camp designed to introduce children to the world of computer science! From July 24-28, we invite students from grades 5-8 to join a welcoming and engaging atmosphere to learn to code in Python. By the end of the camp, students will have the tools to be able to create their own games as well as meeting new friends along the way!
+
+<h2>Where is it?</h2>
+
+The location is still to be determined.
+<!-- <a href="https://goo.gl/maps/YyF3MtTgnUew8BHx7">Google Maps </a> -->
+
+<h2>When is it?</h2>
+
+The camp runs from 10:00 AM - 3:00 PM Eastern Time. The camp starts on July 24th and goes up to and including July 28th.
+
+<h2>Schedule</h2>
+
+<!-- Link to schedule -->
+
+<h2>What will it cost me?</h2>
+
+The camp fee is $$$.
+
+<h2>How do I register?</h2>
+
+You can register by completing the form at this [link](https://forms.gle/Lgg5xtNiUYxsfXLk6)
+
+<h2>Who is teaching?</h2>
+
+Lessons are taught by Alan Bui and Jacob Gaisinsky. More details can be found here: <a href = "/about/#alan-bui">About the Teachers</a>
