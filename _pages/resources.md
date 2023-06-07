@@ -14,6 +14,12 @@ feature_row:
 
 ---
 
+<br>
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;" src="https://alanbui1.github.io/codequest/assets/images/resources.svg" >
+
 {% include feature_row %}
 
 
