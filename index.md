@@ -25,7 +25,7 @@ feature_row:
     alt: "CodeQuest Flyer"
     title: "CodeQuest Registration is OPEN Soon!"
     excerpt: "CodeQuest registration will open shortly!"
-    url: "join.codequest.ca"
+    url: "/register"
     btn_class: "btn--primary"
     btn_label: "Register Now!"
 
