@@ -21,7 +21,7 @@ excerpt:
 
 feature_row:
 
-  - image_path: /assets/images/flyer.png
+  - image_path: /assets/images/flyer.svg
     alt: "CodeQuest Flyer"
     title: "CodeQuest Registration is OPEN Soon!"
     excerpt: "CodeQuest registration will open shortly!"
