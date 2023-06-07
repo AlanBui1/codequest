@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/bg2.gif
   actions:
     - label: "About the Program"
-      url: "/info"
+      url: "/faq"
     - label: Meet the Teachers
       url: "/about/#alan-bui"
     - label: Sign Up
