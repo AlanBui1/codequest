@@ -22,6 +22,7 @@ CodeQuest is a summer coding camp in Windsor for grade school students in grades
 
 Alan Bui is a Massey student who completed the grades 10-12 computer science courses each with a grade of 100%. Additionally, he has made the national honour roll for UWaterloo's Canadian Computing Competition two times. He is one of Stanford's Code in Place section leaders, teaching Python to a class with people from all over the globe. He has also been teaching at the Vincent Massey Computer Science Club for the last year and has been part of it for the last 3 years. His skills range from algorithms, to game development, to web development. Having taught multiple computer science classes, Alan enjoys inspiring motivated students and helping them take their first steps into the world of computer science!
 
+
 <br>
 <br>
 <br>
@@ -30,7 +31,7 @@ Alan Bui is a Massey student who completed the grades 10-12 computer science cou
 <br>
 <img style="float: left; padding-right: 5%" src="https://alanbui1.github.io/codequest/assets/images/jacob.jpg"  width="30%" height="15%" >
 
-Alan Bui is a Massey student who completed the grades 10-12 computer science courses each with a grade of 100%. Additionally, he has made the national honour roll for UWaterloo's Canadian Computing Competition two times. He is one of Stanford's Code in Place section leaders, teaching Python to a class with people from all over the globe. He has also been teaching at the Vincent Massey Computer Science Club for the last year and has been part of it for the last 3 years. His skills range from algorithms, to game development, to web development. Having taught multiple computer science classes, Alan enjoys inspiring motivated students and helping them take their first steps into the world of computer science!
+Jacob Gaisinsky is a Massey student and teacher at the Vincent Massey Computer Science Club. He is also a mentor at CodeReach, a program that teaches web development to middle school students. Programming languages he is proficient in include Python, Java, C++, C#, HTML, CSS, and JavaScript. He enjoys creating games with Unity, Pygame, and Java Swing as well as exploring algorithms and data structures for computer science competitions. Jacob looks forward to helping students reach into the field of computer science.
 
 <br>
 <br>

@@ -21,13 +21,13 @@ excerpt:
 
 feature_row:
 
-  # - image_path: /assets/images/SummerChessChallenge.png
-  #   alt: "Summer Chess Challenge Flyer"
-  #   title: "Summer Chess Challenge"
-  #   excerpt: "The Summer Chess Challenge is coming up soon! All proceeds go towards UNICEF's Ukraine Emergency Fund."
-  #   url: "/summerchess/"
-  #   btn_class: "btn--primary"
-  #   btn_label: "Learn more"
+  - image_path: /assets/images/flyer.png
+    alt: "CodeQuest Flyer"
+    title: "CodeQuest Registration is OPEN Soon!"
+    excerpt: "CodeQuest registration will open shortly!"
+    url: "/info/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
   # - image_path: /assets/images/OpenAirChess.png
   #   alt: "Open Air Weekends Chess Tournament Flyer"
