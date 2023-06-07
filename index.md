@@ -11,7 +11,7 @@ header:
     - label: Meet the Teachers
       url: "/about/#alan-bui"
     - label: Sign Up
-      url: "https://forms.gle/NAqiTSd9H83e9WsU7"
+      url: "https://join.codequest.ca"
   
 excerpt: 
 
