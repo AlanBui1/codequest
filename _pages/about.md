@@ -9,7 +9,7 @@ title: "About Us"
   margin-right: auto;
   width: 90%;" src="https://alanbui1.github.io/codequest/assets/images/about.svg" >
 
-CodeQuest is a summer coding camp in Windsor for grade school students in grades 5 to 8. Our mission is to inspire and empower youth to explore the field of computer science at an affordable price. CodeQuest runs July 24-28 at [location] from 10 AM to 3 PM where students learn through lessons and activities in a fun, effective way. The lessons are taught by teachers at the Vincent Massey Computer Science Club as well as one of Stanford's Code in Place section leaders. CodeQuest open to all students in grades 5-8. Contact us at codequestwindsor@gmail.com for more information!
+CodeQuest is a summer coding camp in Windsor for grade school students in grades 5 to 8. Our mission is to inspire and empower youth to explore the field of computer science at an affordable price. CodeQuest runs July 24-28 at [location] from 10 AM to 3 PM where students learn through lessons and activities in a fun, effective way. The lessons are taught by teachers at the Vincent Massey Computer Science Club as well as one of Stanford's Code in Place section leaders. CodeQuest is open to all students in grades 5-8. Contact us at codequestwindsor@gmail.com for more information!
 
 <a href = "/faq" class="btn btn--light-outline btn--large">FAQ</a>
 <a href = "https://forms.gle/F28qQB8X6gRFhZnB8" class="btn btn--light-outline btn--large">Sign Up</a>
@@ -31,7 +31,7 @@ Alan Bui is a Massey student who completed the grades 10-12 computer science cou
 <br>
 <img style="float: left; padding-right: 5%" src="https://alanbui1.github.io/codequest/assets/images/jacob.jpg"  width="30%" height="15%" >
 
-Jacob Gaisinsky is a Massey student and teacher at the Vincent Massey Computer Science Club. He is also a mentor at CodeReach, a program that teaches web development to middle school students. Programming languages he is proficient in include Python, Java, C++, C#, HTML, CSS, and JavaScript. He enjoys creating games with Unity, Pygame, and Java Swing as well as exploring algorithms and data structures for computer science competitions. Jacob looks forward to helping students reach into the field of computer science.
+Jacob Gaisinsky is a Massey student and teacher at the Vincent Massey Computer Science Club. He is also a mentor at CodeReach, a program that teaches web development to middle school students. Programming languages he is proficient in include Python, Java, C++, C#, and JavaScript. He enjoys creating games with Unity, Pygame, and Java Swing as well as exploring algorithms and data structures for computer science competitions. Jacob looks forward to helping students reach into the field of computer science.
 
 <br>
 <br>
