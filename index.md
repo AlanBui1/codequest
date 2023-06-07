@@ -25,9 +25,9 @@ feature_row:
     alt: "CodeQuest Flyer"
     title: "CodeQuest Registration is OPEN Soon!"
     excerpt: "CodeQuest registration will open shortly!"
-    url: "/info/"
+    url: "/info"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Register Now!"
 
   # - image_path: /assets/images/OpenAirChess.png
   #   alt: "Open Air Weekends Chess Tournament Flyer"
