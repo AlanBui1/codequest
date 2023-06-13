@@ -6,7 +6,7 @@ header:
   overlay_color: "#1a2b63"
   overlay_image: /assets/images/bg2.gif
   actions:
-    - label: "About the Program"
+    - label: "FAQ"
       url: "/faq"
     - label: Meet the Teachers
       url: "/about/#alan-bui"
