@@ -1,6 +1,6 @@
 main:
   - title: "FAQ"
-    url: /faq/
+    url: /faq
   - title: "Announcements"
     url: /announcements/
   - title: "Resources"
