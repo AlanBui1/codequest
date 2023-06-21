@@ -23,8 +23,8 @@ feature_row:
 
   - image_path: /assets/images/flyer.svg
     alt: "CodeQuest Flyer"
-    title: "CodeQuest Registration is OPEN Soon!"
-    excerpt: "CodeQuest registration will open shortly!"
+    title: "CodeQuest Registration is OPEN!"
+    excerpt: "CodeQuest registration is now open! There are limited spots so register while you can!"
     url: "/register"
     btn_class: "btn--primary"
     btn_label: "Register Now!"
