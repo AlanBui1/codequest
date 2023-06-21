@@ -31,7 +31,7 @@ Alan Bui is a Massey student who completed the grades 10-12 computer science cou
 <br>
 <img style="float: left; padding-right: 5%" src="https://alanbui1.github.io/codequest/assets/images/jacob.jpg"  width="30%" height="15%" >
 
-Jacob Gaisinsky is a Massey student and teacher at the Vincent Massey Computer Science Club. He is also a mentor at CodeReach, a program that teaches web development to middle school students. Programming languages he is proficient in include Python, Java, C++, C#, and JavaScript. He enjoys creating games with Unity, Pygame, and Java Swing as well as exploring algorithms and data structures for computer science competitions. Jacob looks forward to helping students reach into the field of computer science.
+Jacob Gaisinsky is a Massey student and teacher at the Vincent Massey Computer Science Club. He is also a mentor at CodeReach, a program that teaches web development to middle school students. Jacob is proficient in Python, Java, C++, C#, and JavaScript. He enjoys creating games with Unity, Pygame, and Java Swing as well as exploring algorithms and data structures for computer science competitions. Jacob looks forward to helping students explore computer science in a fun-filled week of learning!
 
 <br>
 <br>
