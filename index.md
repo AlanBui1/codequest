@@ -8,8 +8,8 @@ header:
   actions:
     - label: "FAQ"
       url: "/faq"
-    - label: Meet the Teachers
-      url: "/about/#alan-bui"
+    - label: About
+      url: "/about/"
     - label: Sign Up
       url: "https://join.codequest.ca"
   
