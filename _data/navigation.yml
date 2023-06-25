@@ -1,5 +1,5 @@
 main:
-  - title: "FAQ"
+  - title: "More Info"
     url: /faq
   - title: "Announcements"
     url: /announcements/
@@ -9,5 +9,5 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "About"
+  - title: "About Us"
     url: /about/

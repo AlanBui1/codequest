@@ -6,10 +6,10 @@ header:
   overlay_color: "#1a2b63"
   overlay_image: /assets/images/bg2.gif
   actions:
-    - label: "FAQ"
+    - label: "More Info"
       url: "/faq"
-    - label: Meet the Teachers
-      url: "/about/#alan-bui"
+    - label: About Us
+      url: "/about/"
     - label: Sign Up
       url: "https://join.codequest.ca"
   
