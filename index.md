@@ -8,7 +8,7 @@ header:
   actions:
     - label: "More Info"
       url: "/faq"
-    - label: About
+    - label: About Us
       url: "/about/"
     - label: Sign Up
       url: "https://join.codequest.ca"
