@@ -6,7 +6,7 @@ header:
   overlay_color: "#1a2b63"
   overlay_image: /assets/images/bg2.gif
   actions:
-    - label: "FAQ"
+    - label: "More Info"
       url: "/faq"
     - label: About
       url: "/about/"
