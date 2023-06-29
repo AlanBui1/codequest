@@ -29,6 +29,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Register Now!"
 
+  - image_path: /assets/images/schedule.svg
+    alt: "CodeQuest Schedule"
+    title: "CodeQuest schedule is here!"
+
   # - image_path: /assets/images/OpenAirChess.png
   #   alt: "Open Air Weekends Chess Tournament Flyer"
   #   title: "Open Air Chess Tournament"
