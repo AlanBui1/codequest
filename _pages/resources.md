@@ -32,9 +32,10 @@ hidden: true
 
 - [Replit](https://replit.com/signup) (Replit is an online code editor and it's handy if you can't download Python!)
 
-<!-- 
+### Lessons:
 
-Replit
-Lesson plans
+- [Lesson 1 Notes](https://docs.google.com/document/d/1gPS06oUt5e4tD8myoryfTBJu-RwwmU4UYciMuU_XPbM/edit?usp=sharing) 
 
- -->
+- [Lesson 1 Activities](https://docs.google.com/document/d/1zf-U3kTyPBqY4neXsMzrvem5x1W9n23FEuzcNOOIBlo/edit?usp=sharing) 
+
+- [Lesson 1 Activity Solutions](https://docs.google.com/document/d/1V78akeeLQO5PZld35JQkRB4IHPlrNd1WxnwpIEBQChc/edit?usp=sharing) 
