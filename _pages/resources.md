@@ -44,4 +44,10 @@ hidden: true
 
 - [Lesson 2 Activities](https://docs.google.com/document/d/1_WkxgkakLjgtr01vSd4qzms0tag3CbwJB3d3I7x5wns/edit?usp=sharing) 
 
-<!-- - [Lesson 2 Activity Solutions](https://docs.google.com/document/d/1V78akeeLQO5PZld35JQkRB4IHPlrNd1WxnwpIEBQChc/edit?usp=sharing)  -->
+- [Lesson 3 Notes](https://docs.google.com/document/d/12Lf-lfaUDHbAFKZ5V4YJOclvYMMcfcp9VoOf4ue98hc/edit?usp=sharing) 
+
+- [Lesson 3 Activities](https://docs.google.com/document/d/1iOU9CtXSZZcQIirXGm_v8Uti_OkqCoAO34D_iqi3PkE/edit?usp=sharing) 
+
+- [Lesson 4 Notes](https://docs.google.com/document/d/1HX8NusTKYnBPQRZZwVJ2Pv7Nj43j5utq1rzL83ffgHA/edit?usp=sharing) 
+
+- [Lesson 4 Activities](https://docs.google.com/document/d/1MaFgJzaoEt1xuqrrY6f4dWiDerfR8OnaUWfTbnNPMLo/edit?usp=sharing) 
