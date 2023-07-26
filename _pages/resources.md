@@ -51,3 +51,11 @@ hidden: true
 - [Lesson 4 Notes](https://docs.google.com/document/d/1HX8NusTKYnBPQRZZwVJ2Pv7Nj43j5utq1rzL83ffgHA/edit?usp=sharing) 
 
 - [Lesson 4 Activities](https://docs.google.com/document/d/1MaFgJzaoEt1xuqrrY6f4dWiDerfR8OnaUWfTbnNPMLo/edit?usp=sharing) 
+
+- [Lesson 5 Notes](https://docs.google.com/document/d/1dYOSwqPEo_mUCPFLvs423OZBv-DOg11wGeCNcnGbwuY/edit?usp=sharing) 
+
+- [Lesson 5 Activities](https://docs.google.com/document/d/129e0T6b1hUIx1ew8eNvnWYisESB-HM358K9PA2qq6nA/edit?usp=sharing) 
+
+- [Lesson 6 Notes](https://docs.google.com/document/d/1s1qgWZXR4xzQyu3CZ0vio-qw_veCOdTTnvyTG-f6jWM/edit?usp=sharing) 
+
+- [Lesson 6 Activities](https://docs.google.com/document/d/1ahpd3ir_kg1hWWm22K781OTxxuwubtE3r8NlMXJfRaM/edit?usp=sharing) 
