@@ -59,3 +59,7 @@ hidden: true
 - [Lesson 6 Notes](https://docs.google.com/document/d/1s1qgWZXR4xzQyu3CZ0vio-qw_veCOdTTnvyTG-f6jWM/edit?usp=sharing) 
 
 - [Lesson 6 Activities](https://docs.google.com/document/d/1ahpd3ir_kg1hWWm22K781OTxxuwubtE3r8NlMXJfRaM/edit?usp=sharing) 
+
+- [Lesson 7 Notes](https://docs.google.com/document/d/13kkacRkcOcZ13g_3VsRZ_RHScEC5tEf_QR641sXFQjU/edit?usp=sharing) 
+
+- [Lesson 7 Activities](https://docs.google.com/document/d/1W4FerG4dTYTq9peNplXB60MbAE6Ic2l5hwHChtiFHh8/edit?usp=sharing) 
