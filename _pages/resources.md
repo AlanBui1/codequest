@@ -63,3 +63,5 @@ hidden: true
 - [Lesson 7 Notes](https://docs.google.com/document/d/13kkacRkcOcZ13g_3VsRZ_RHScEC5tEf_QR641sXFQjU/edit?usp=sharing) 
 
 - [Lesson 7 Activities](https://docs.google.com/document/d/1W4FerG4dTYTq9peNplXB60MbAE6Ic2l5hwHChtiFHh8/edit?usp=sharing) 
+
+- [Assets](https://drive.google.com/drive/folders/1db3OJqKW6Y00618CEUD3M9-1jRo0dvEO?usp=sharing)
