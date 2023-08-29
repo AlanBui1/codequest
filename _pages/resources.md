@@ -32,9 +32,36 @@ hidden: true
 
 - [Replit](https://replit.com/signup) (Replit is an online code editor and it's handy if you can't download Python!)
 
-<!-- 
+### Lessons:
 
-Replit
-Lesson plans
+- [Lesson 1 Notes](https://docs.google.com/document/d/1gPS06oUt5e4tD8myoryfTBJu-RwwmU4UYciMuU_XPbM/edit?usp=sharing) 
 
- -->
+- [Lesson 1 Activities](https://docs.google.com/document/d/1zf-U3kTyPBqY4neXsMzrvem5x1W9n23FEuzcNOOIBlo/edit?usp=sharing) 
+
+- [Lesson 1 Activity Solutions](https://docs.google.com/document/d/1V78akeeLQO5PZld35JQkRB4IHPlrNd1WxnwpIEBQChc/edit?usp=sharing) 
+
+- [Lesson 2 Notes](https://docs.google.com/document/d/1egOg9XVFHF705pecIjfSMrpB2UlZfMBVcyRkVk6S3sc/edit?usp=sharing) 
+
+- [Lesson 2 Activities](https://docs.google.com/document/d/1_WkxgkakLjgtr01vSd4qzms0tag3CbwJB3d3I7x5wns/edit?usp=sharing) 
+
+- [Lesson 3 Notes](https://docs.google.com/document/d/12Lf-lfaUDHbAFKZ5V4YJOclvYMMcfcp9VoOf4ue98hc/edit?usp=sharing) 
+
+- [Lesson 3 Activities](https://docs.google.com/document/d/1iOU9CtXSZZcQIirXGm_v8Uti_OkqCoAO34D_iqi3PkE/edit?usp=sharing) 
+
+- [Lesson 4 Notes](https://docs.google.com/document/d/1HX8NusTKYnBPQRZZwVJ2Pv7Nj43j5utq1rzL83ffgHA/edit?usp=sharing) 
+
+- [Lesson 4 Activities](https://docs.google.com/document/d/1MaFgJzaoEt1xuqrrY6f4dWiDerfR8OnaUWfTbnNPMLo/edit?usp=sharing) 
+
+- [Lesson 5 Notes](https://docs.google.com/document/d/1dYOSwqPEo_mUCPFLvs423OZBv-DOg11wGeCNcnGbwuY/edit?usp=sharing) 
+
+- [Lesson 5 Activities](https://docs.google.com/document/d/129e0T6b1hUIx1ew8eNvnWYisESB-HM358K9PA2qq6nA/edit?usp=sharing) 
+
+- [Lesson 6 Notes](https://docs.google.com/document/d/1s1qgWZXR4xzQyu3CZ0vio-qw_veCOdTTnvyTG-f6jWM/edit?usp=sharing) 
+
+- [Lesson 6 Activities](https://docs.google.com/document/d/1ahpd3ir_kg1hWWm22K781OTxxuwubtE3r8NlMXJfRaM/edit?usp=sharing) 
+
+- [Lesson 7 Notes](https://docs.google.com/document/d/13kkacRkcOcZ13g_3VsRZ_RHScEC5tEf_QR641sXFQjU/edit?usp=sharing) 
+
+- [Lesson 7 Activities](https://docs.google.com/document/d/1W4FerG4dTYTq9peNplXB60MbAE6Ic2l5hwHChtiFHh8/edit?usp=sharing) 
+
+- [Assets](https://drive.google.com/drive/folders/1db3OJqKW6Y00618CEUD3M9-1jRo0dvEO?usp=sharing)
