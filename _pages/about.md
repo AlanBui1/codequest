@@ -37,6 +37,16 @@ Jacob Gaisinsky is a Massey student and teacher at the Vincent Massey Computer S
 <br>
 <br>
 
+## Isaac Jiang
+<br>
+<img style="float: left; padding-right: 5%" src="https://media.licdn.com/dms/image/D5603AQFtue_WIHoDog/profile-displayphoto-shrink_400_400/0/1690759149965?e=1698883200&v=beta&t=3oa6S9PT9fczajwrycDA9HoP80mbvbMeek5h1swEmsY"  width="30%" height="15%" >
+
+Isaac Jiang is a Massey student who has achieved 100% in his grade 12 computer science studies. Holding a teaching role at STEMist Education, he passionately imparts his expertise, nurturing aspiring minds within the realm of computer science. Isaac is an active contributor to the Massey computer science club, teaching the Junior stream. Furthering his passion, he delves into research at the University of Windsor under the guidance of Dr. Fani. Isaac hopes to use his abilities to teach and inspire future computer scientists.
+
+<br>
+<br>
+<br>
+
 ## Contact Us
 
 We can be reached by email at: <a href = "mailto: codequestwindsor@gmail.com">codequestwindsor@gmail.com</a>
